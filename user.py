@@ -1,0 +1,13 @@
+# Take two values and print gratest among
+
+a = int(input())
+b = int(input())
+
+if(a<b):
+    print(a)
+
+elif(a==b):
+    print("Same")
+
+else:
+    print("b")
