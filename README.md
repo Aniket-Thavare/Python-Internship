@@ -1,0 +1,1 @@
+This Git Hub repository contains my Python internship codes, which will help me improve my Python abilities.
